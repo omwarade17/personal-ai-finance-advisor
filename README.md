@@ -59,4 +59,4 @@ Frontend Results
 
 Project Demo Video 
   ↓
-URL - [https://drive.google.com/file/d/19cG7cZLfmSm-6MZxB57aH4zUitMr9xOa/view?usp=drive_link]
+URL - [https://drive.google.com/file/d/1EumZ7QtJBKJTyvHzprXnoGuhYKMyKgMw/view?usp=drive_link]
